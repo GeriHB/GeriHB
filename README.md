@@ -27,6 +27,14 @@ My work includes analyzing device communication, authentication mechanisms, firm
 - Academic focus on information security, penetration testing, digital forensics, and information security management.
 - Background in journalism and investigative media work, strengthening my approach to research, source verification, evidence analysis, and clear technical communication
 
+## Selected Projects
+
+### [GOAD Active Directory Security Assessment](https://github.com/GeriHB/goad-ad-lab)
+
+A documented Active Directory security assessment covering unauthenticated discovery, credential access, lateral movement, domain compromise, Golden Ticket abuse, AD CS misconfigurations, Kerberos delegation, and Sliver C2.
+
+The project focuses not only on exploitation, but also on attack-path reasoning, evidence, security impact, detection opportunities, and mitigation.
+
 ## Connect
 
 [Linkedin](https://www.linkedin.com/in/halilberisha)
