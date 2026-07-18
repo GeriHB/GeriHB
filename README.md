@@ -31,9 +31,15 @@ My work includes analyzing device communication, authentication mechanisms, firm
 
 ### [GOAD Active Directory Security Assessment](https://github.com/GeriHB/goad-ad-lab)
 
-A documented Active Directory security assessment covering unauthenticated discovery, credential access, lateral movement, domain compromise, Golden Ticket abuse, AD CS misconfigurations, Kerberos delegation, and Sliver C2.
+A structured Active Directory security assessment covering discovery, credential access, lateral movement, domain compromise, Golden Ticket abuse, AD CS misconfigurations, Kerberos delegation, and Sliver C2.
 
-The project focuses not only on exploitation, but also on attack-path reasoning, evidence, security impact, detection opportunities, and mitigation.
+The documentation connects exploitation evidence with security impact, detection opportunities, and remediation.
+
+### [Web Application Security Labs](https://github.com/GeriHB/web-security-labs)
+
+Structured web application security assessments covering OAuth authorization flows, HTTP Host header trust, password-reset poisoning, and file-upload validation.
+
+The reports focus on testing methodology, vulnerable behaviour, evidence, root cause, impact, and remediation.
 
 ## Connect
 
