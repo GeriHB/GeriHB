@@ -43,5 +43,5 @@ The reports focus on testing methodology, vulnerable behaviour, evidence, root c
 
 ## Connect
 
-[Linkedin](https://www.linkedin.com/in/halilberisha)
+[LinkedIn](https://www.linkedin.com/in/halilberisha)
 
