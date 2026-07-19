@@ -45,6 +45,12 @@ The reports focus on testing methodology, vulnerable behaviour, evidence, root c
 
 Selected penetration-testing and digital-forensics write-ups covering web authorization weaknesses, packet analysis, credential exposure, Linux privilege escalation, file carving, and archive recovery.
 
+### [SecDocLint](https://github.com/GeriHB/secdoclint)
+
+A Python command-line tool that checks cybersecurity Markdown repositories for publication risks and documentation-quality problems.
+
+It detects exposed authentication material, lab flags, sensitive file types, broken relative links, unclear evidence descriptions, oversized command output, missing scope documentation, and contradictory validation statements. The project includes configurable rules, structured output, automated tests, and GitHub Actions CI.
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/halilberisha)
